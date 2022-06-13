@@ -11,3 +11,5 @@ docker run -it --network container:our-redis redis redis-cli -h 127.0.0.1
 [Документация два](https://otus.ru/nest/post/716/)
 
 [Документация три](https://otus.ru/nest/post/723/)
+
+[Документация по очереди](https://www.baeldung.com/spring-data-redis-pub-sub)
